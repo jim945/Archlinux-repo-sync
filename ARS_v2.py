@@ -98,7 +98,7 @@ while True:                            # Генерация исключений
           i = str.split(p, ' \s ')[1]
           p = str.split(p, ' \s ')[0]
         for l in lang:
-          pac_ex.write ('*' + p + '-' + l + '-*.pkg.tar.xz*' + '\n')
+          pac_ex.write ('*' + p + '-' + l + '-*.pkg.tar.zst*' + '\n')
       pac_ex.close ()
       break
     else:
