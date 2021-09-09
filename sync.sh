@@ -8,9 +8,10 @@ DIR="$1" # Куда грузим
 REPOS="core extra community" # multilib testing community-testing multilib-testing kde-unstable gnome-unstable
 arch="x86_64"
 EX_FILE="$workdir"/pac.exclude # Файл исключений
-MAX_SIZE="100M"
-PARAM="--exclude-from=$EX_FILE --max-size=$MAX_SIZE --partial --progress --safe-links --copy-links --delete --delete-before"
+MAX_SIZE="500M"
+PARAM="--exclude-from=$EX_FILE --partial --progress --safe-links --copy-links --delete --delete-before --delete-excluded"
 # --delete-after --delay-updates Удалять после загрузки
+# --max-size=$MAX_SIZE Максимальный размер загружаемого файла
 
 
 
