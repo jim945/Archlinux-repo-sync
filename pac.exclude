@@ -10,6 +10,7 @@ iso
 *frogatto-*
 *vdrift-*
 *warsow-*
+**i18n-ach-*.pkg.tar.zst*
 **i18n-af-*.pkg.tar.zst*
 **i18n-ar-*.pkg.tar.zst*
 **i18n-ak-*.pkg.tar.zst*
@@ -27,12 +28,14 @@ iso
 **i18n-bs-*.pkg.tar.zst*
 **i18n-ca-*.pkg.tar.zst*
 **i18n-ca@valencia-*.pkg.tar.zst*
+**i18n-cak-*.pkg.tar.zst*
 **i18n-csb-*.pkg.tar.zst*
 **i18n-cs-*.pkg.tar.zst*
 **i18n-cy-*.pkg.tar.zst*
 **i18n-da-*.pkg.tar.zst*
 **i18n-de-*.pkg.tar.zst*
 **i18n-dgo-*.pkg.tar.zst*
+**i18n-dsb-*.pkg.tar.zst*
 **i18n-dz-*.pkg.tar.zst*
 **i18n-el-*.pkg.tar.zst*
 **i18n-en_gb-*.pkg.tar.zst*
@@ -55,6 +58,7 @@ iso
 **i18n-fy-nl-*.pkg.tar.zst*
 **i18n-ga-*.pkg.tar.zst*
 **i18n-gl-*.pkg.tar.zst*
+**i18n-gn-*.pkg.tar.zst*
 **i18n-gu-*.pkg.tar.zst*
 **i18n-gu-in-*.pkg.tar.zst*
 **i18n-gd-*.pkg.tar.zst*
@@ -62,6 +66,7 @@ iso
 **i18n-hi-*.pkg.tar.zst*
 **i18n-hi-in-*.pkg.tar.zst*
 **i18n-hr-*.pkg.tar.zst*
+**i18n-hsb-*.pkg.tar.zst*
 **i18n-hu-*.pkg.tar.zst*
 **i18n-hy-am-*.pkg.tar.zst*
 **i18n-ia-*.pkg.tar.zst*
@@ -70,6 +75,7 @@ iso
 **i18n-it-*.pkg.tar.zst*
 **i18n-ja-*.pkg.tar.zst*
 **i18n-ka-*.pkg.tar.zst*
+**i18n-kab-*.pkg.tar.zst*
 **i18n-kk-*.pkg.tar.zst*
 **i18n-km-*.pkg.tar.zst*
 **i18n-kn-*.pkg.tar.zst*
@@ -138,6 +144,7 @@ iso
 **i18n-ts-*.pkg.tar.zst*
 **i18n-ug-*.pkg.tar.zst*
 **i18n-uk-*.pkg.tar.zst*
+**i18n-ur-*.pkg.tar.zst*
 **i18n-us-*.pkg.tar.zst*
 **i18n-uz-*.pkg.tar.zst*
 **i18n-ve-*.pkg.tar.zst*
@@ -152,6 +159,7 @@ iso
 **i18n-zh-TW-*.pkg.tar.zst*
 **i18n-zu-*.pkg.tar.zst*
 **i18n-yi-*.pkg.tar.zst*
+**l10n-ach-*.pkg.tar.zst*
 **l10n-af-*.pkg.tar.zst*
 **l10n-ar-*.pkg.tar.zst*
 **l10n-ak-*.pkg.tar.zst*
@@ -169,12 +177,14 @@ iso
 **l10n-bs-*.pkg.tar.zst*
 **l10n-ca-*.pkg.tar.zst*
 **l10n-ca@valencia-*.pkg.tar.zst*
+**l10n-cak-*.pkg.tar.zst*
 **l10n-csb-*.pkg.tar.zst*
 **l10n-cs-*.pkg.tar.zst*
 **l10n-cy-*.pkg.tar.zst*
 **l10n-da-*.pkg.tar.zst*
 **l10n-de-*.pkg.tar.zst*
 **l10n-dgo-*.pkg.tar.zst*
+**l10n-dsb-*.pkg.tar.zst*
 **l10n-dz-*.pkg.tar.zst*
 **l10n-el-*.pkg.tar.zst*
 **l10n-en_gb-*.pkg.tar.zst*
@@ -197,6 +207,7 @@ iso
 **l10n-fy-nl-*.pkg.tar.zst*
 **l10n-ga-*.pkg.tar.zst*
 **l10n-gl-*.pkg.tar.zst*
+**l10n-gn-*.pkg.tar.zst*
 **l10n-gu-*.pkg.tar.zst*
 **l10n-gu-in-*.pkg.tar.zst*
 **l10n-gd-*.pkg.tar.zst*
@@ -204,6 +215,7 @@ iso
 **l10n-hi-*.pkg.tar.zst*
 **l10n-hi-in-*.pkg.tar.zst*
 **l10n-hr-*.pkg.tar.zst*
+**l10n-hsb-*.pkg.tar.zst*
 **l10n-hu-*.pkg.tar.zst*
 **l10n-hy-am-*.pkg.tar.zst*
 **l10n-ia-*.pkg.tar.zst*
@@ -212,6 +224,7 @@ iso
 **l10n-it-*.pkg.tar.zst*
 **l10n-ja-*.pkg.tar.zst*
 **l10n-ka-*.pkg.tar.zst*
+**l10n-kab-*.pkg.tar.zst*
 **l10n-kk-*.pkg.tar.zst*
 **l10n-km-*.pkg.tar.zst*
 **l10n-kn-*.pkg.tar.zst*
@@ -280,6 +293,7 @@ iso
 **l10n-ts-*.pkg.tar.zst*
 **l10n-ug-*.pkg.tar.zst*
 **l10n-uk-*.pkg.tar.zst*
+**l10n-ur-*.pkg.tar.zst*
 **l10n-us-*.pkg.tar.zst*
 **l10n-uz-*.pkg.tar.zst*
 **l10n-ve-*.pkg.tar.zst*
@@ -294,6 +308,7 @@ iso
 **l10n-zh-TW-*.pkg.tar.zst*
 **l10n-zu-*.pkg.tar.zst*
 **l10n-yi-*.pkg.tar.zst*
+*libreoffice-still-ach-*.pkg.tar.zst*
 *libreoffice-still-af-*.pkg.tar.zst*
 *libreoffice-still-ar-*.pkg.tar.zst*
 *libreoffice-still-ak-*.pkg.tar.zst*
@@ -311,12 +326,14 @@ iso
 *libreoffice-still-bs-*.pkg.tar.zst*
 *libreoffice-still-ca-*.pkg.tar.zst*
 *libreoffice-still-ca@valencia-*.pkg.tar.zst*
+*libreoffice-still-cak-*.pkg.tar.zst*
 *libreoffice-still-csb-*.pkg.tar.zst*
 *libreoffice-still-cs-*.pkg.tar.zst*
 *libreoffice-still-cy-*.pkg.tar.zst*
 *libreoffice-still-da-*.pkg.tar.zst*
 *libreoffice-still-de-*.pkg.tar.zst*
 *libreoffice-still-dgo-*.pkg.tar.zst*
+*libreoffice-still-dsb-*.pkg.tar.zst*
 *libreoffice-still-dz-*.pkg.tar.zst*
 *libreoffice-still-el-*.pkg.tar.zst*
 *libreoffice-still-en_gb-*.pkg.tar.zst*
@@ -339,6 +356,7 @@ iso
 *libreoffice-still-fy-nl-*.pkg.tar.zst*
 *libreoffice-still-ga-*.pkg.tar.zst*
 *libreoffice-still-gl-*.pkg.tar.zst*
+*libreoffice-still-gn-*.pkg.tar.zst*
 *libreoffice-still-gu-*.pkg.tar.zst*
 *libreoffice-still-gu-in-*.pkg.tar.zst*
 *libreoffice-still-gd-*.pkg.tar.zst*
@@ -346,6 +364,7 @@ iso
 *libreoffice-still-hi-*.pkg.tar.zst*
 *libreoffice-still-hi-in-*.pkg.tar.zst*
 *libreoffice-still-hr-*.pkg.tar.zst*
+*libreoffice-still-hsb-*.pkg.tar.zst*
 *libreoffice-still-hu-*.pkg.tar.zst*
 *libreoffice-still-hy-am-*.pkg.tar.zst*
 *libreoffice-still-ia-*.pkg.tar.zst*
@@ -354,6 +373,7 @@ iso
 *libreoffice-still-it-*.pkg.tar.zst*
 *libreoffice-still-ja-*.pkg.tar.zst*
 *libreoffice-still-ka-*.pkg.tar.zst*
+*libreoffice-still-kab-*.pkg.tar.zst*
 *libreoffice-still-kk-*.pkg.tar.zst*
 *libreoffice-still-km-*.pkg.tar.zst*
 *libreoffice-still-kn-*.pkg.tar.zst*
@@ -422,6 +442,7 @@ iso
 *libreoffice-still-ts-*.pkg.tar.zst*
 *libreoffice-still-ug-*.pkg.tar.zst*
 *libreoffice-still-uk-*.pkg.tar.zst*
+*libreoffice-still-ur-*.pkg.tar.zst*
 *libreoffice-still-us-*.pkg.tar.zst*
 *libreoffice-still-uz-*.pkg.tar.zst*
 *libreoffice-still-ve-*.pkg.tar.zst*
@@ -436,6 +457,7 @@ iso
 *libreoffice-still-zh-TW-*.pkg.tar.zst*
 *libreoffice-still-zu-*.pkg.tar.zst*
 *libreoffice-still-yi-*.pkg.tar.zst*
+*libreoffice-fresh-ach-*.pkg.tar.zst*
 *libreoffice-fresh-af-*.pkg.tar.zst*
 *libreoffice-fresh-ar-*.pkg.tar.zst*
 *libreoffice-fresh-ak-*.pkg.tar.zst*
@@ -453,12 +475,14 @@ iso
 *libreoffice-fresh-bs-*.pkg.tar.zst*
 *libreoffice-fresh-ca-*.pkg.tar.zst*
 *libreoffice-fresh-ca@valencia-*.pkg.tar.zst*
+*libreoffice-fresh-cak-*.pkg.tar.zst*
 *libreoffice-fresh-csb-*.pkg.tar.zst*
 *libreoffice-fresh-cs-*.pkg.tar.zst*
 *libreoffice-fresh-cy-*.pkg.tar.zst*
 *libreoffice-fresh-da-*.pkg.tar.zst*
 *libreoffice-fresh-de-*.pkg.tar.zst*
 *libreoffice-fresh-dgo-*.pkg.tar.zst*
+*libreoffice-fresh-dsb-*.pkg.tar.zst*
 *libreoffice-fresh-dz-*.pkg.tar.zst*
 *libreoffice-fresh-el-*.pkg.tar.zst*
 *libreoffice-fresh-en_gb-*.pkg.tar.zst*
@@ -481,6 +505,7 @@ iso
 *libreoffice-fresh-fy-nl-*.pkg.tar.zst*
 *libreoffice-fresh-ga-*.pkg.tar.zst*
 *libreoffice-fresh-gl-*.pkg.tar.zst*
+*libreoffice-fresh-gn-*.pkg.tar.zst*
 *libreoffice-fresh-gu-*.pkg.tar.zst*
 *libreoffice-fresh-gu-in-*.pkg.tar.zst*
 *libreoffice-fresh-gd-*.pkg.tar.zst*
@@ -488,6 +513,7 @@ iso
 *libreoffice-fresh-hi-*.pkg.tar.zst*
 *libreoffice-fresh-hi-in-*.pkg.tar.zst*
 *libreoffice-fresh-hr-*.pkg.tar.zst*
+*libreoffice-fresh-hsb-*.pkg.tar.zst*
 *libreoffice-fresh-hu-*.pkg.tar.zst*
 *libreoffice-fresh-hy-am-*.pkg.tar.zst*
 *libreoffice-fresh-ia-*.pkg.tar.zst*
@@ -496,6 +522,7 @@ iso
 *libreoffice-fresh-it-*.pkg.tar.zst*
 *libreoffice-fresh-ja-*.pkg.tar.zst*
 *libreoffice-fresh-ka-*.pkg.tar.zst*
+*libreoffice-fresh-kab-*.pkg.tar.zst*
 *libreoffice-fresh-kk-*.pkg.tar.zst*
 *libreoffice-fresh-km-*.pkg.tar.zst*
 *libreoffice-fresh-kn-*.pkg.tar.zst*
@@ -564,6 +591,7 @@ iso
 *libreoffice-fresh-ts-*.pkg.tar.zst*
 *libreoffice-fresh-ug-*.pkg.tar.zst*
 *libreoffice-fresh-uk-*.pkg.tar.zst*
+*libreoffice-fresh-ur-*.pkg.tar.zst*
 *libreoffice-fresh-us-*.pkg.tar.zst*
 *libreoffice-fresh-uz-*.pkg.tar.zst*
 *libreoffice-fresh-ve-*.pkg.tar.zst*
@@ -578,6 +606,7 @@ iso
 *libreoffice-fresh-zh-TW-*.pkg.tar.zst*
 *libreoffice-fresh-zu-*.pkg.tar.zst*
 *libreoffice-fresh-yi-*.pkg.tar.zst*
+*festival-ach-*.pkg.tar.zst*
 *festival-af-*.pkg.tar.zst*
 *festival-ar-*.pkg.tar.zst*
 *festival-ak-*.pkg.tar.zst*
@@ -595,12 +624,14 @@ iso
 *festival-bs-*.pkg.tar.zst*
 *festival-ca-*.pkg.tar.zst*
 *festival-ca@valencia-*.pkg.tar.zst*
+*festival-cak-*.pkg.tar.zst*
 *festival-csb-*.pkg.tar.zst*
 *festival-cs-*.pkg.tar.zst*
 *festival-cy-*.pkg.tar.zst*
 *festival-da-*.pkg.tar.zst*
 *festival-de-*.pkg.tar.zst*
 *festival-dgo-*.pkg.tar.zst*
+*festival-dsb-*.pkg.tar.zst*
 *festival-dz-*.pkg.tar.zst*
 *festival-el-*.pkg.tar.zst*
 *festival-en_gb-*.pkg.tar.zst*
@@ -623,6 +654,7 @@ iso
 *festival-fy-nl-*.pkg.tar.zst*
 *festival-ga-*.pkg.tar.zst*
 *festival-gl-*.pkg.tar.zst*
+*festival-gn-*.pkg.tar.zst*
 *festival-gu-*.pkg.tar.zst*
 *festival-gu-in-*.pkg.tar.zst*
 *festival-gd-*.pkg.tar.zst*
@@ -630,6 +662,7 @@ iso
 *festival-hi-*.pkg.tar.zst*
 *festival-hi-in-*.pkg.tar.zst*
 *festival-hr-*.pkg.tar.zst*
+*festival-hsb-*.pkg.tar.zst*
 *festival-hu-*.pkg.tar.zst*
 *festival-hy-am-*.pkg.tar.zst*
 *festival-ia-*.pkg.tar.zst*
@@ -638,6 +671,7 @@ iso
 *festival-it-*.pkg.tar.zst*
 *festival-ja-*.pkg.tar.zst*
 *festival-ka-*.pkg.tar.zst*
+*festival-kab-*.pkg.tar.zst*
 *festival-kk-*.pkg.tar.zst*
 *festival-km-*.pkg.tar.zst*
 *festival-kn-*.pkg.tar.zst*
@@ -706,6 +740,7 @@ iso
 *festival-ts-*.pkg.tar.zst*
 *festival-ug-*.pkg.tar.zst*
 *festival-uk-*.pkg.tar.zst*
+*festival-ur-*.pkg.tar.zst*
 *festival-us-*.pkg.tar.zst*
 *festival-uz-*.pkg.tar.zst*
 *festival-ve-*.pkg.tar.zst*
@@ -720,6 +755,7 @@ iso
 *festival-zh-TW-*.pkg.tar.zst*
 *festival-zu-*.pkg.tar.zst*
 *festival-yi-*.pkg.tar.zst*
+*aspell-ach-*.pkg.tar.zst*
 *aspell-af-*.pkg.tar.zst*
 *aspell-ar-*.pkg.tar.zst*
 *aspell-ak-*.pkg.tar.zst*
@@ -737,12 +773,14 @@ iso
 *aspell-bs-*.pkg.tar.zst*
 *aspell-ca-*.pkg.tar.zst*
 *aspell-ca@valencia-*.pkg.tar.zst*
+*aspell-cak-*.pkg.tar.zst*
 *aspell-csb-*.pkg.tar.zst*
 *aspell-cs-*.pkg.tar.zst*
 *aspell-cy-*.pkg.tar.zst*
 *aspell-da-*.pkg.tar.zst*
 *aspell-de-*.pkg.tar.zst*
 *aspell-dgo-*.pkg.tar.zst*
+*aspell-dsb-*.pkg.tar.zst*
 *aspell-dz-*.pkg.tar.zst*
 *aspell-el-*.pkg.tar.zst*
 *aspell-en_gb-*.pkg.tar.zst*
@@ -765,6 +803,7 @@ iso
 *aspell-fy-nl-*.pkg.tar.zst*
 *aspell-ga-*.pkg.tar.zst*
 *aspell-gl-*.pkg.tar.zst*
+*aspell-gn-*.pkg.tar.zst*
 *aspell-gu-*.pkg.tar.zst*
 *aspell-gu-in-*.pkg.tar.zst*
 *aspell-gd-*.pkg.tar.zst*
@@ -772,6 +811,7 @@ iso
 *aspell-hi-*.pkg.tar.zst*
 *aspell-hi-in-*.pkg.tar.zst*
 *aspell-hr-*.pkg.tar.zst*
+*aspell-hsb-*.pkg.tar.zst*
 *aspell-hu-*.pkg.tar.zst*
 *aspell-hy-am-*.pkg.tar.zst*
 *aspell-ia-*.pkg.tar.zst*
@@ -780,6 +820,7 @@ iso
 *aspell-it-*.pkg.tar.zst*
 *aspell-ja-*.pkg.tar.zst*
 *aspell-ka-*.pkg.tar.zst*
+*aspell-kab-*.pkg.tar.zst*
 *aspell-kk-*.pkg.tar.zst*
 *aspell-km-*.pkg.tar.zst*
 *aspell-kn-*.pkg.tar.zst*
@@ -848,6 +889,7 @@ iso
 *aspell-ts-*.pkg.tar.zst*
 *aspell-ug-*.pkg.tar.zst*
 *aspell-uk-*.pkg.tar.zst*
+*aspell-ur-*.pkg.tar.zst*
 *aspell-us-*.pkg.tar.zst*
 *aspell-uz-*.pkg.tar.zst*
 *aspell-ve-*.pkg.tar.zst*
@@ -862,6 +904,7 @@ iso
 *aspell-zh-TW-*.pkg.tar.zst*
 *aspell-zu-*.pkg.tar.zst*
 *aspell-yi-*.pkg.tar.zst*
+*gimp-help-ach-*.pkg.tar.zst*
 *gimp-help-af-*.pkg.tar.zst*
 *gimp-help-ar-*.pkg.tar.zst*
 *gimp-help-ak-*.pkg.tar.zst*
@@ -879,12 +922,14 @@ iso
 *gimp-help-bs-*.pkg.tar.zst*
 *gimp-help-ca-*.pkg.tar.zst*
 *gimp-help-ca@valencia-*.pkg.tar.zst*
+*gimp-help-cak-*.pkg.tar.zst*
 *gimp-help-csb-*.pkg.tar.zst*
 *gimp-help-cs-*.pkg.tar.zst*
 *gimp-help-cy-*.pkg.tar.zst*
 *gimp-help-da-*.pkg.tar.zst*
 *gimp-help-de-*.pkg.tar.zst*
 *gimp-help-dgo-*.pkg.tar.zst*
+*gimp-help-dsb-*.pkg.tar.zst*
 *gimp-help-dz-*.pkg.tar.zst*
 *gimp-help-el-*.pkg.tar.zst*
 *gimp-help-en_gb-*.pkg.tar.zst*
@@ -907,6 +952,7 @@ iso
 *gimp-help-fy-nl-*.pkg.tar.zst*
 *gimp-help-ga-*.pkg.tar.zst*
 *gimp-help-gl-*.pkg.tar.zst*
+*gimp-help-gn-*.pkg.tar.zst*
 *gimp-help-gu-*.pkg.tar.zst*
 *gimp-help-gu-in-*.pkg.tar.zst*
 *gimp-help-gd-*.pkg.tar.zst*
@@ -914,6 +960,7 @@ iso
 *gimp-help-hi-*.pkg.tar.zst*
 *gimp-help-hi-in-*.pkg.tar.zst*
 *gimp-help-hr-*.pkg.tar.zst*
+*gimp-help-hsb-*.pkg.tar.zst*
 *gimp-help-hu-*.pkg.tar.zst*
 *gimp-help-hy-am-*.pkg.tar.zst*
 *gimp-help-ia-*.pkg.tar.zst*
@@ -922,6 +969,7 @@ iso
 *gimp-help-it-*.pkg.tar.zst*
 *gimp-help-ja-*.pkg.tar.zst*
 *gimp-help-ka-*.pkg.tar.zst*
+*gimp-help-kab-*.pkg.tar.zst*
 *gimp-help-kk-*.pkg.tar.zst*
 *gimp-help-km-*.pkg.tar.zst*
 *gimp-help-kn-*.pkg.tar.zst*
@@ -990,6 +1038,7 @@ iso
 *gimp-help-ts-*.pkg.tar.zst*
 *gimp-help-ug-*.pkg.tar.zst*
 *gimp-help-uk-*.pkg.tar.zst*
+*gimp-help-ur-*.pkg.tar.zst*
 *gimp-help-us-*.pkg.tar.zst*
 *gimp-help-uz-*.pkg.tar.zst*
 *gimp-help-ve-*.pkg.tar.zst*
@@ -1004,6 +1053,7 @@ iso
 *gimp-help-zh-TW-*.pkg.tar.zst*
 *gimp-help-zu-*.pkg.tar.zst*
 *gimp-help-yi-*.pkg.tar.zst*
+*hunspell-ach-*.pkg.tar.zst*
 *hunspell-af-*.pkg.tar.zst*
 *hunspell-ar-*.pkg.tar.zst*
 *hunspell-ak-*.pkg.tar.zst*
@@ -1021,12 +1071,14 @@ iso
 *hunspell-bs-*.pkg.tar.zst*
 *hunspell-ca-*.pkg.tar.zst*
 *hunspell-ca@valencia-*.pkg.tar.zst*
+*hunspell-cak-*.pkg.tar.zst*
 *hunspell-csb-*.pkg.tar.zst*
 *hunspell-cs-*.pkg.tar.zst*
 *hunspell-cy-*.pkg.tar.zst*
 *hunspell-da-*.pkg.tar.zst*
 *hunspell-de-*.pkg.tar.zst*
 *hunspell-dgo-*.pkg.tar.zst*
+*hunspell-dsb-*.pkg.tar.zst*
 *hunspell-dz-*.pkg.tar.zst*
 *hunspell-el-*.pkg.tar.zst*
 *hunspell-en_gb-*.pkg.tar.zst*
@@ -1049,6 +1101,7 @@ iso
 *hunspell-fy-nl-*.pkg.tar.zst*
 *hunspell-ga-*.pkg.tar.zst*
 *hunspell-gl-*.pkg.tar.zst*
+*hunspell-gn-*.pkg.tar.zst*
 *hunspell-gu-*.pkg.tar.zst*
 *hunspell-gu-in-*.pkg.tar.zst*
 *hunspell-gd-*.pkg.tar.zst*
@@ -1056,6 +1109,7 @@ iso
 *hunspell-hi-*.pkg.tar.zst*
 *hunspell-hi-in-*.pkg.tar.zst*
 *hunspell-hr-*.pkg.tar.zst*
+*hunspell-hsb-*.pkg.tar.zst*
 *hunspell-hu-*.pkg.tar.zst*
 *hunspell-hy-am-*.pkg.tar.zst*
 *hunspell-ia-*.pkg.tar.zst*
@@ -1064,6 +1118,7 @@ iso
 *hunspell-it-*.pkg.tar.zst*
 *hunspell-ja-*.pkg.tar.zst*
 *hunspell-ka-*.pkg.tar.zst*
+*hunspell-kab-*.pkg.tar.zst*
 *hunspell-kk-*.pkg.tar.zst*
 *hunspell-km-*.pkg.tar.zst*
 *hunspell-kn-*.pkg.tar.zst*
@@ -1132,6 +1187,7 @@ iso
 *hunspell-ts-*.pkg.tar.zst*
 *hunspell-ug-*.pkg.tar.zst*
 *hunspell-uk-*.pkg.tar.zst*
+*hunspell-ur-*.pkg.tar.zst*
 *hunspell-us-*.pkg.tar.zst*
 *hunspell-uz-*.pkg.tar.zst*
 *hunspell-ve-*.pkg.tar.zst*
@@ -1146,6 +1202,7 @@ iso
 *hunspell-zh-TW-*.pkg.tar.zst*
 *hunspell-zu-*.pkg.tar.zst*
 *hunspell-yi-*.pkg.tar.zst*
+*hyphen-ach-*.pkg.tar.zst*
 *hyphen-af-*.pkg.tar.zst*
 *hyphen-ar-*.pkg.tar.zst*
 *hyphen-ak-*.pkg.tar.zst*
@@ -1163,12 +1220,14 @@ iso
 *hyphen-bs-*.pkg.tar.zst*
 *hyphen-ca-*.pkg.tar.zst*
 *hyphen-ca@valencia-*.pkg.tar.zst*
+*hyphen-cak-*.pkg.tar.zst*
 *hyphen-csb-*.pkg.tar.zst*
 *hyphen-cs-*.pkg.tar.zst*
 *hyphen-cy-*.pkg.tar.zst*
 *hyphen-da-*.pkg.tar.zst*
 *hyphen-de-*.pkg.tar.zst*
 *hyphen-dgo-*.pkg.tar.zst*
+*hyphen-dsb-*.pkg.tar.zst*
 *hyphen-dz-*.pkg.tar.zst*
 *hyphen-el-*.pkg.tar.zst*
 *hyphen-en_gb-*.pkg.tar.zst*
@@ -1191,6 +1250,7 @@ iso
 *hyphen-fy-nl-*.pkg.tar.zst*
 *hyphen-ga-*.pkg.tar.zst*
 *hyphen-gl-*.pkg.tar.zst*
+*hyphen-gn-*.pkg.tar.zst*
 *hyphen-gu-*.pkg.tar.zst*
 *hyphen-gu-in-*.pkg.tar.zst*
 *hyphen-gd-*.pkg.tar.zst*
@@ -1198,6 +1258,7 @@ iso
 *hyphen-hi-*.pkg.tar.zst*
 *hyphen-hi-in-*.pkg.tar.zst*
 *hyphen-hr-*.pkg.tar.zst*
+*hyphen-hsb-*.pkg.tar.zst*
 *hyphen-hu-*.pkg.tar.zst*
 *hyphen-hy-am-*.pkg.tar.zst*
 *hyphen-ia-*.pkg.tar.zst*
@@ -1206,6 +1267,7 @@ iso
 *hyphen-it-*.pkg.tar.zst*
 *hyphen-ja-*.pkg.tar.zst*
 *hyphen-ka-*.pkg.tar.zst*
+*hyphen-kab-*.pkg.tar.zst*
 *hyphen-kk-*.pkg.tar.zst*
 *hyphen-km-*.pkg.tar.zst*
 *hyphen-kn-*.pkg.tar.zst*
@@ -1274,6 +1336,7 @@ iso
 *hyphen-ts-*.pkg.tar.zst*
 *hyphen-ug-*.pkg.tar.zst*
 *hyphen-uk-*.pkg.tar.zst*
+*hyphen-ur-*.pkg.tar.zst*
 *hyphen-us-*.pkg.tar.zst*
 *hyphen-uz-*.pkg.tar.zst*
 *hyphen-ve-*.pkg.tar.zst*
@@ -1288,6 +1351,7 @@ iso
 *hyphen-zh-TW-*.pkg.tar.zst*
 *hyphen-zu-*.pkg.tar.zst*
 *hyphen-yi-*.pkg.tar.zst*
+*mythes-ach-*.pkg.tar.zst*
 *mythes-af-*.pkg.tar.zst*
 *mythes-ar-*.pkg.tar.zst*
 *mythes-ak-*.pkg.tar.zst*
@@ -1305,12 +1369,14 @@ iso
 *mythes-bs-*.pkg.tar.zst*
 *mythes-ca-*.pkg.tar.zst*
 *mythes-ca@valencia-*.pkg.tar.zst*
+*mythes-cak-*.pkg.tar.zst*
 *mythes-csb-*.pkg.tar.zst*
 *mythes-cs-*.pkg.tar.zst*
 *mythes-cy-*.pkg.tar.zst*
 *mythes-da-*.pkg.tar.zst*
 *mythes-de-*.pkg.tar.zst*
 *mythes-dgo-*.pkg.tar.zst*
+*mythes-dsb-*.pkg.tar.zst*
 *mythes-dz-*.pkg.tar.zst*
 *mythes-el-*.pkg.tar.zst*
 *mythes-en_gb-*.pkg.tar.zst*
@@ -1333,6 +1399,7 @@ iso
 *mythes-fy-nl-*.pkg.tar.zst*
 *mythes-ga-*.pkg.tar.zst*
 *mythes-gl-*.pkg.tar.zst*
+*mythes-gn-*.pkg.tar.zst*
 *mythes-gu-*.pkg.tar.zst*
 *mythes-gu-in-*.pkg.tar.zst*
 *mythes-gd-*.pkg.tar.zst*
@@ -1340,6 +1407,7 @@ iso
 *mythes-hi-*.pkg.tar.zst*
 *mythes-hi-in-*.pkg.tar.zst*
 *mythes-hr-*.pkg.tar.zst*
+*mythes-hsb-*.pkg.tar.zst*
 *mythes-hu-*.pkg.tar.zst*
 *mythes-hy-am-*.pkg.tar.zst*
 *mythes-ia-*.pkg.tar.zst*
@@ -1348,6 +1416,7 @@ iso
 *mythes-it-*.pkg.tar.zst*
 *mythes-ja-*.pkg.tar.zst*
 *mythes-ka-*.pkg.tar.zst*
+*mythes-kab-*.pkg.tar.zst*
 *mythes-kk-*.pkg.tar.zst*
 *mythes-km-*.pkg.tar.zst*
 *mythes-kn-*.pkg.tar.zst*
@@ -1416,6 +1485,7 @@ iso
 *mythes-ts-*.pkg.tar.zst*
 *mythes-ug-*.pkg.tar.zst*
 *mythes-uk-*.pkg.tar.zst*
+*mythes-ur-*.pkg.tar.zst*
 *mythes-us-*.pkg.tar.zst*
 *mythes-uz-*.pkg.tar.zst*
 *mythes-ve-*.pkg.tar.zst*
@@ -1430,6 +1500,7 @@ iso
 *mythes-zh-TW-*.pkg.tar.zst*
 *mythes-zu-*.pkg.tar.zst*
 *mythes-yi-*.pkg.tar.zst*
+*vim-spell-ach-*.pkg.tar.zst*
 *vim-spell-af-*.pkg.tar.zst*
 *vim-spell-ar-*.pkg.tar.zst*
 *vim-spell-ak-*.pkg.tar.zst*
@@ -1447,12 +1518,14 @@ iso
 *vim-spell-bs-*.pkg.tar.zst*
 *vim-spell-ca-*.pkg.tar.zst*
 *vim-spell-ca@valencia-*.pkg.tar.zst*
+*vim-spell-cak-*.pkg.tar.zst*
 *vim-spell-csb-*.pkg.tar.zst*
 *vim-spell-cs-*.pkg.tar.zst*
 *vim-spell-cy-*.pkg.tar.zst*
 *vim-spell-da-*.pkg.tar.zst*
 *vim-spell-de-*.pkg.tar.zst*
 *vim-spell-dgo-*.pkg.tar.zst*
+*vim-spell-dsb-*.pkg.tar.zst*
 *vim-spell-dz-*.pkg.tar.zst*
 *vim-spell-el-*.pkg.tar.zst*
 *vim-spell-en_gb-*.pkg.tar.zst*
@@ -1475,6 +1548,7 @@ iso
 *vim-spell-fy-nl-*.pkg.tar.zst*
 *vim-spell-ga-*.pkg.tar.zst*
 *vim-spell-gl-*.pkg.tar.zst*
+*vim-spell-gn-*.pkg.tar.zst*
 *vim-spell-gu-*.pkg.tar.zst*
 *vim-spell-gu-in-*.pkg.tar.zst*
 *vim-spell-gd-*.pkg.tar.zst*
@@ -1482,6 +1556,7 @@ iso
 *vim-spell-hi-*.pkg.tar.zst*
 *vim-spell-hi-in-*.pkg.tar.zst*
 *vim-spell-hr-*.pkg.tar.zst*
+*vim-spell-hsb-*.pkg.tar.zst*
 *vim-spell-hu-*.pkg.tar.zst*
 *vim-spell-hy-am-*.pkg.tar.zst*
 *vim-spell-ia-*.pkg.tar.zst*
@@ -1490,6 +1565,7 @@ iso
 *vim-spell-it-*.pkg.tar.zst*
 *vim-spell-ja-*.pkg.tar.zst*
 *vim-spell-ka-*.pkg.tar.zst*
+*vim-spell-kab-*.pkg.tar.zst*
 *vim-spell-kk-*.pkg.tar.zst*
 *vim-spell-km-*.pkg.tar.zst*
 *vim-spell-kn-*.pkg.tar.zst*
@@ -1558,6 +1634,7 @@ iso
 *vim-spell-ts-*.pkg.tar.zst*
 *vim-spell-ug-*.pkg.tar.zst*
 *vim-spell-uk-*.pkg.tar.zst*
+*vim-spell-ur-*.pkg.tar.zst*
 *vim-spell-us-*.pkg.tar.zst*
 *vim-spell-uz-*.pkg.tar.zst*
 *vim-spell-ve-*.pkg.tar.zst*
@@ -1572,6 +1649,7 @@ iso
 *vim-spell-zh-TW-*.pkg.tar.zst*
 *vim-spell-zu-*.pkg.tar.zst*
 *vim-spell-yi-*.pkg.tar.zst*
+*man-pages-ach-*.pkg.tar.zst*
 *man-pages-af-*.pkg.tar.zst*
 *man-pages-ar-*.pkg.tar.zst*
 *man-pages-ak-*.pkg.tar.zst*
@@ -1589,12 +1667,14 @@ iso
 *man-pages-bs-*.pkg.tar.zst*
 *man-pages-ca-*.pkg.tar.zst*
 *man-pages-ca@valencia-*.pkg.tar.zst*
+*man-pages-cak-*.pkg.tar.zst*
 *man-pages-csb-*.pkg.tar.zst*
 *man-pages-cs-*.pkg.tar.zst*
 *man-pages-cy-*.pkg.tar.zst*
 *man-pages-da-*.pkg.tar.zst*
 *man-pages-de-*.pkg.tar.zst*
 *man-pages-dgo-*.pkg.tar.zst*
+*man-pages-dsb-*.pkg.tar.zst*
 *man-pages-dz-*.pkg.tar.zst*
 *man-pages-el-*.pkg.tar.zst*
 *man-pages-en_gb-*.pkg.tar.zst*
@@ -1617,6 +1697,7 @@ iso
 *man-pages-fy-nl-*.pkg.tar.zst*
 *man-pages-ga-*.pkg.tar.zst*
 *man-pages-gl-*.pkg.tar.zst*
+*man-pages-gn-*.pkg.tar.zst*
 *man-pages-gu-*.pkg.tar.zst*
 *man-pages-gu-in-*.pkg.tar.zst*
 *man-pages-gd-*.pkg.tar.zst*
@@ -1624,6 +1705,7 @@ iso
 *man-pages-hi-*.pkg.tar.zst*
 *man-pages-hi-in-*.pkg.tar.zst*
 *man-pages-hr-*.pkg.tar.zst*
+*man-pages-hsb-*.pkg.tar.zst*
 *man-pages-hu-*.pkg.tar.zst*
 *man-pages-hy-am-*.pkg.tar.zst*
 *man-pages-ia-*.pkg.tar.zst*
@@ -1632,6 +1714,7 @@ iso
 *man-pages-it-*.pkg.tar.zst*
 *man-pages-ja-*.pkg.tar.zst*
 *man-pages-ka-*.pkg.tar.zst*
+*man-pages-kab-*.pkg.tar.zst*
 *man-pages-kk-*.pkg.tar.zst*
 *man-pages-km-*.pkg.tar.zst*
 *man-pages-kn-*.pkg.tar.zst*
@@ -1700,6 +1783,7 @@ iso
 *man-pages-ts-*.pkg.tar.zst*
 *man-pages-ug-*.pkg.tar.zst*
 *man-pages-uk-*.pkg.tar.zst*
+*man-pages-ur-*.pkg.tar.zst*
 *man-pages-us-*.pkg.tar.zst*
 *man-pages-uz-*.pkg.tar.zst*
 *man-pages-ve-*.pkg.tar.zst*

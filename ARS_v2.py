@@ -40,17 +40,17 @@ while True:                            # Генерация исключений
 
       # Исключаемые языки
       lang = [                             # Список исключаемых языков
-      'af','ar','ak','am','as','ast',
+      'ach','af','ar','ak','am','as','ast',
       'be','bg','bn-bd','bn-in','bn','bo','br','brx','bs',
-      'ca','ca@valencia','csb','cs','cy',
-      'da','de','dgo','dz',
+      'ca','ca@valencia','cak','csb','cs','cy',
+      'da','de','dgo','dsb','dz',
       'el','en_gb','en-gb','en-GB','en-us','en-US','en-za','en-ZA','es','eo','et','eu',#'en',#'english',
       'fa','fi','ff','fo','fr','fy','fy-nl',
-      'ga','gl','gu','gu-in','gd',
-      'he','hi','hi-in','hr','hu','hy-am',
+      'ga','gl','gn','gu','gu-in','gd',
+      'he','hi','hi-in','hr','hsb','hu','hy-am',
       'ia','id','is','it',
       'ja',
-      'ka','kk','km','kn','ko','kok','ks','ku','lg',
+      'ka','kab','kk','km','kn','ko','kok','ks','ku','lg',
       'la','lij','lo','lt','lv',
       'mai','mg','mi','mk','ml','mn','mni','mr','ms','my',
       'nb','ne','nds','nl','nn','nr','nso','ny',
@@ -59,7 +59,7 @@ while True:                            # Генерация исключений
       'rm','ro','rw',#'ru',
       'sa-IN','sat','sd','sh','sk','sl','sr','sv','si','son','sq','ss','sw','sw-TZ','st', # conflict mt-st
       'ta','ta-lk','te','tet','tg','th','tl','tn','tr','ts',
-      'ug','uk','us','uz',
+      'ug','uk','ur','us','uz',
       've','vi',
       'wa',
       'xh',
