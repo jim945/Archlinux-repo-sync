@@ -6,45 +6,11 @@
 import os
 import subprocess
 
-# Путь до зеркала
-DIR = '/mnt/mirror'
-sync_dir = DIR + '/archlinux'
-# Зеркала
-mirrors = {
-'1':'rsync://mirrors.kernel.org/archlinux',
-'2':'rsync://mir1.archlinux.fr/archlinux',
-'3':'rsync://mirror.yandex.ru/archlinux',
-}
-repos = [
-'core',
-'extra',
-'community',
-'multilib',
-#'testing',
-#'community-testing',
-#'multilib-testing',
-#'kde-unstable',
-#'gnome-unstable'
-]
-
-arch = {'1': 'i686', '2': 'x86_64', '3': 'any', '4': '*', '':'all'}
-exarch = {'2': 'i686', '1': 'x86_64'}
-
-RSYNC = 'rsync -av '
-PARAM = '--partial --progress --safe-links --copy-links --delete --delete-excluded '
-# --delete-after --delay-updates Удалять после загрузки
-ex = '--exclude='
-f_ex = '--exclude-from='
-
-# Файл настроек
-sfile = '/home/user/arch/repo/setting'
 
 # Файл исключений
-p_ex = '/home/user/arch/repo/pac.exclude'
+p_ex = '/tmp/pac.exclude'
 
-def exlang():
-
-  while True:                            # Генерация исключений
+while True:                            # Генерация исключений
     if  os.path.exists (p_ex):
       i = input ('Обновить файл исключений? (y/N) ')
     else :
@@ -138,73 +104,4 @@ def exlang():
     else:
       continue
 
-if __name__ == '__main__':
 
-
-  if os.path.exists (sfile):
-    for s in open (sfile):
-      s = s.split('\n')[0]
-      if s.split('=')[0] == 'mirror':
-        mirror = s.split('=')[1]
-      #elif s.split('=')[0] == 'arch':
-        #j = arch [s.split('=')[1]]
-        #print (j)
-      
-      exlang
-      
-  #while True:
-    #while True:
-
-        #print ('Выберите зеркало.')
-        #for n in mirrors:
-            #print('{', n, '} ', mirrors [n], sep='')
-
-        #mirror = ''
-
-        #i = input('Зеркало: ')
-        #for n in mirrors:
-            #if i == n : 
-                #mirror = mirrors [n]
-        #if mirror == '':
-            #continue
-        #break
-
-    #while True:
-        #j = input('Архитектура. {1} i686  {2} x86_64\n(По умолчанию все)\n')
-        #perf = RSYNC + PARAM
-        #if j == '':
-            #break
-        #elif j in  ('1', '2') :
-            #perf += (ex + 'os/' + exarch [j] + ' ')
-            #break
-
-    #print('Зеркало: ', mirror, '\nАрхитектура: ', sep = '', end = '')
-    #if j == '':
-        #print ('Все')
-    #else :
-        #print (arch[j])
-
-    #while True:
-        #i = input('y/n? ')
-        #if i in ('y', 'д', '', 'n', 'н') :
-            #break
-        #else :
-            #continue
-    #if i in ('y', 'д', '') :
-        #break
-    #elif i in ('n', 'н') :
-        #continue
-
-  #setting = open (sfile, 'w')
-  #setting.write ('mirror=' + mirror + '\n')
-  #setting.write ('arch=' + arch[j] + '\n')
-  #setting.close ()
-
-  #exlang()
-
-
-  #for repo in repos:
-    #print('\nSync', repo, 'repo...')
-    #app = perf + f_ex + p_ex + ' ' + mirror + '/' + repo + ' ' + sync_dir
-    ##print (app)
-    #subprocess.call (app, shell=True)
